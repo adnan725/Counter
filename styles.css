@@ -69,3 +69,14 @@ body {
 .decrease {
   padding: 8px 32px;
 }
+
+.green {
+  color: green;
+}
+.red {
+  color: #940505;
+}
+
+.black {
+  color: #000;
+}
